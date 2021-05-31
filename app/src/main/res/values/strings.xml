@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VerySimpleProject</string>
+    <string name="publisher_hint">Bạn là</string>
+    <string name="content_hint">Bạn thuộc lớp nào</string>
+    <string name="detail_hint">Bạn muốn gửi nội dung gì</string>
+    <string name="target_hint">Bạn muốn gửi cho ai</string>
+    <string name="khoa_ky_thuat_desc">Khoa kỹ thuật</string>
+    <string name="khoa_kinh_te_desc">Khoa kinh tế</string>
+    <string name="khoa_su_pham_desc">Khoa sư phạm</string>
+    <string name="thoikhoabieu_radiobutton">Thời khoá biểu</string>
+    <string name="thong_bao_radiobutton">Thông báo</string>
+    <string name="push_button">Save</string>
+    <string name="user_name">Lương Văn Ý</string>
+    <string name="class_user">Lớp K12TT</string>
+    <string name="thong_bao">Mai khoa kỹ thuật sẽ được nghỉ hè</string>
+</resources>
