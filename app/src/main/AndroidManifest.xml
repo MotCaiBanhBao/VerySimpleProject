@@ -9,7 +9,7 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/Theme.VerySimpleProject">
-        <activity android:name=".bai2.LoginActivity">
+        <activity android:name=".EntryChoiceActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".bai2.UserDetailActivity"/>
-        <activity android:name=".bai1linearlayout.MainActivity"/>
+        <activity android:name=".bai2.LoginActivity"/>
+        <activity android:name=".bai1linearlayout.Bai1Activity"/>
     </application>
 
 </manifest>

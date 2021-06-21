@@ -21,6 +21,7 @@
     <string name="logout_button">Logout</string>
     <string name="userNameText">User name: %1$s</string>
     <string name="passwordText">Password: %1$s</string>
+    <string name="WelcomeText">Bài tập lập trình di động</string>
     <string-array name="ThangTrongNam">
         <item>Tháng 1</item>
         <item>Tháng 2</item>
