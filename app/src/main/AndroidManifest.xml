@@ -9,13 +9,15 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/Theme.VerySimpleProject">
-        <activity android:name=".MainActivity">
+        <activity android:name=".bai2.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:name=".bai2.UserDetailActivity"/>
+        <activity android:name=".bai1linearlayout.MainActivity"/>
     </application>
 
 </manifest>
