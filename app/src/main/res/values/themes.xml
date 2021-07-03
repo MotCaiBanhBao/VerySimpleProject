@@ -17,4 +17,12 @@
 
     </style>
 
+    <style name="Widget.MaterialComponents.Button.DefaultButton">
+        <item name="backgroundTint">@color/blue_main</item>
+        <item name="android:background">@drawable/button_background_default</item>
+        <item name="iconGravity">textStart</item>
+        <item name="iconPadding">3dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:fontFamily">@font/sf_pro_text</item>
+    </style>
 </resources>

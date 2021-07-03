@@ -3,21 +3,26 @@
           package="k12tt.luongvany.verysimpleproject">
 
     <application
+
             android:allowBackup="true"
             android:icon="@mipmap/ic_launcher"
             android:label="@string/app_name"
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/Theme.VerySimpleProject">
+
         <activity android:name=".EntryChoiceActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
-
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+
         <activity android:name=".bai2.UserDetailActivity"/>
+        <activity android:name=".giuaki.LoginActivity"/>
+        <activity android:name=".giuaki.WelcomeActivity"/>
         <activity android:name=".bai2.LoginActivity"/>
+        <activity android:name=".giuaki.AllUserActivity"/>
         <activity android:name=".bai1linearlayout.Bai1Activity"/>
     </application>
 

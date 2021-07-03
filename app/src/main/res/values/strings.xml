@@ -22,6 +22,8 @@
     <string name="userNameText">User name: %1$s</string>
     <string name="passwordText">Password: %1$s</string>
     <string name="WelcomeText">Bài tập lập trình di động</string>
+    <string name="lets_start_txt">Let’s Get Started</string>
+    <string name="admin_tools_txt">Admin tools</string>
     <string-array name="ThangTrongNam">
         <item>Tháng 1</item>
         <item>Tháng 2</item>
