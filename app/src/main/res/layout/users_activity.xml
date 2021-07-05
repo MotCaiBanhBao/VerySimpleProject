@@ -33,8 +33,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
+        android:layout_marginBottom="24dp"
         android:src="@drawable/ic_new_use_icon_foreground"
         app:fabSize="normal"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent" app:layout_scrollFlags="scroll|enterAlways|snap"/>
+        app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent"
+        app:layout_scrollFlags="scroll|enterAlways|snap"/>
 </androidx.constraintlayout.widget.ConstraintLayout>

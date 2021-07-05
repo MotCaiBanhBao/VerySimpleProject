@@ -50,6 +50,14 @@
                 tools:text="Password" />
 
             <com.google.android.material.button.MaterialButton
+                android:id="@+id/delete_user"
+                android:text="@string/delete_user"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:layout_marginEnd="8dp"
+                android:layout_marginRight="8dp" app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/details_user"/>
+
+            <com.google.android.material.button.MaterialButton
                 android:id="@+id/details_user"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

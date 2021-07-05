@@ -24,6 +24,7 @@
     <string name="WelcomeText">Bài tập lập trình di động</string>
     <string name="lets_start_txt">Let’s Get Started</string>
     <string name="admin_tools_txt">Admin tools</string>
+    <string name="delete_user">Delete</string>
     <string-array name="ThangTrongNam">
         <item>Tháng 1</item>
         <item>Tháng 2</item>
